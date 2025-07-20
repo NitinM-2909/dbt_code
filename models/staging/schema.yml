@@ -8,3 +8,4 @@ sources:
     tables:
       - name: STG_EMPLOYEES
       - name: STG_ORDERS
+      - name: SUPPLIES
