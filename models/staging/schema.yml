@@ -9,3 +9,4 @@ sources:
       - name: STG_EMPLOYEES
       - name: STG_ORDERS
       - name: Supplies
+      - name: Raw_Products
