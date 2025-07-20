@@ -3,4 +3,4 @@
 SELECT *
   FROM {{ source('datafeed_shared_schema', 'Supplies') }}
 
-SELECT * FROM SELECT
+SELECT * FROM Supplies
