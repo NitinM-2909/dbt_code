@@ -8,5 +8,10 @@ sources:
     tables:
       - name: STG_EMPLOYEES
       - name: STG_ORDERS
+        columns:
+          - name: id
+            tests:
+              - unique
+              - not_null
       - name: Supplies
       - name: Raw_Products
