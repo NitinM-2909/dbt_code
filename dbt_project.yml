@@ -43,4 +43,4 @@ models:
     Staging1:
       +materialized: table
 snapshots:
-      +target_schema: DWH
+      +target_schema: Target_layer
